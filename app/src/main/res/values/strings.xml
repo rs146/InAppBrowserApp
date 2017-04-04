@@ -2,4 +2,7 @@
     <string name="app_name">InAppBrowserApp</string>
     <string name="back">Back</string>
     <string name="forward">Forward</string>
+    <string name="add_bbc_url">Add BBC url</string>
+    <string name="add_bbc_sports_url">Add BBC Sports Url</string>
+    <string name="open_in_chrome_custom_tab">Open in Chrome custom tab</string>
 </resources>
